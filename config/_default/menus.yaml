@@ -1,0 +1,52 @@
+hide_download: true
+hide_download_original: null
+leftnav:
+- identifier: db734abe-3c22-bf06-6c44-e389b3d37c73
+  name: Syllabus
+  pageRef: /pages/syllabus
+  weight: 10
+- identifier: a6387916-f3e7-531e-9ef2-4ec823ca76b5
+  name: Instructor Insights
+  pageRef: /pages/instructor-insights/instructor-insights
+  weight: 20
+- identifier: bc876b75-7ba0-32d7-a321-af54c0967aab
+  name: Meet Prof. Michael Short
+  pageRef: /pages/instructor-insights/meet-prof-michael-short
+  parent: a6387916-f3e7-531e-9ef2-4ec823ca76b5
+  weight: 30
+- identifier: 4ace3d6d-d3b4-c4a5-2cfe-09c6bce484cb
+  name: What Is the Course All About?
+  pageRef: /pages/instructor-insights/what-is-the-course-all-about
+  parent: a6387916-f3e7-531e-9ef2-4ec823ca76b5
+  weight: 40
+- identifier: 8478ccd5-67d4-4696-ed4a-ad645b0f8615
+  name: Opening Knowledge Gaps in Nuclear Science
+  pageRef: /pages/instructor-insights/opening-knowledge-gaps-in-nuclear-science
+  parent: a6387916-f3e7-531e-9ef2-4ec823ca76b5
+  weight: 50
+- identifier: 5e6bf892-8033-ca38-aab2-2c8793074f33
+  name: Hands-On Learning
+  pageRef: /pages/instructor-insights/hands-on-learning
+  parent: a6387916-f3e7-531e-9ef2-4ec823ca76b5
+  weight: 60
+- identifier: 7861b7df-e269-8d47-a387-c70f954004df
+  name: Prioritizing Teaching, Empowering Students
+  pageRef: /pages/instructor-insights/prioritizing-teaching-empowering-students
+  parent: a6387916-f3e7-531e-9ef2-4ec823ca76b5
+  weight: 70
+- identifier: 7d42543a-bc9c-12f6-6111-f423b8894a80
+  name: Readings
+  pageRef: /pages/readings
+  weight: 80
+- identifier: cd47d68e-4403-687a-8381-6352ebdd00bd
+  name: Lecture Videos
+  pageRef: /video_galleries/lecture-videos
+  weight: 90
+- identifier: 45019f75-48b7-2adc-0b96-e629c3954596
+  name: Assignments
+  pageRef: /pages/assignments
+  weight: 100
+- identifier: b1820160-6a87-87ef-ebd9-bd82492fb3a5
+  name: Exams
+  pageRef: /pages/exams
+  weight: 110

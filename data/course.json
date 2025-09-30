@@ -1,0 +1,54 @@
+{
+  "term": "Fall",
+  "year": "2016",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Engineering",
+      "Nuclear Engineering"
+    ],
+    [
+      "Science",
+      "Physics",
+      "Nuclear Physics"
+    ]
+  ],
+  "legacy_uid": "f6c19e35-ac65-abfd-503a-554de2317619",
+  "instructors": {
+    "content": [
+      "d9ca5631-c693-6252-866d-63683c0c453e"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "64a937e4-f745-ca45-5728-8943eac0cec7",
+    "website": "22-01-introduction-to-nuclear-engineering-and-ionizing-radiation-fall-2016"
+  },
+  "course_title": "Introduction to Nuclear Engineering and Ionizing Radiation",
+  "hide_download": true,
+  "mit_learn_topics": [],
+  "course_description": "This course provides an introduction to nuclear science and its engineering applications. It describes basic nuclear models, radioactivity, nuclear reactions, and kinematics; covers the interaction of ionizing radiation with matter, with an emphasis on radiation detection, radiation shielding, and radiation effects on human health; and presents energy systems based on fission and fusion nuclear reactions, as well as industrial and medical applications of nuclear science.\n",
+  "department_numbers": [
+    "22"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "22.01",
+  "course_image_thumbnail": {
+    "content": "982971ef-e320-244d-a617-b172e198b5f8",
+    "website": "22-01-introduction-to-nuclear-engineering-and-ionizing-radiation-fall-2016"
+  },
+  "hide_download_original": false,
+  "learning_resource_types": [
+    "Lecture Videos",
+    "Problem Sets with Solutions",
+    "Exams with Solutions",
+    "Instructor Insights",
+    "Podcasts"
+  ],
+  "site_uid": "0321a309-6430-4d5b-a783-48f55bad321e",
+  "site_short_id": "22.01-fall-2016",
+  "site_url_path": "courses/22-01-introduction-to-nuclear-engineering-and-ionizing-radiation-fall-2016",
+  "title": "Course Metadata"
+}
