@@ -5,8 +5,6 @@ description: 'This resource contains information regarding introduction to nucle
 file: /courses/22-01-introduction-to-nuclear-engineering-and-ionizing-radiation-fall-2016/0fc91a987b1619ce718399a39f4db4f0_ps5_NAA.xls
 file_size: 47104
 file_type: application/vnd.ms-excel
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

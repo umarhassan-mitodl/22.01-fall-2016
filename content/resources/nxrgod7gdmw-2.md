@@ -4,8 +4,6 @@ description: ''
 file: /courses/22-01-introduction-to-nuclear-engineering-and-ionizing-radiation-fall-2016/07cc6f10be455a85b0d7a0dba4beb8c3_NXrGOd7gdMw.vtt
 file_size: 118066
 file_type: application/x-subrip
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

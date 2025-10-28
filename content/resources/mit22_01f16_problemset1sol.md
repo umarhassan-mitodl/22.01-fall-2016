@@ -5,8 +5,6 @@ description: 'This resource contains information regarding introduction to nucle
 file: /courses/22-01-introduction-to-nuclear-engineering-and-ionizing-radiation-fall-2016/769daae041da4a6c5db1977f7ba163e3_MIT22_01F16_ProblemSet1Sol.pdf
 file_size: 399293
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

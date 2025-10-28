@@ -5,8 +5,6 @@ description: 'This file contains information regarding quiz 1: Energetics, radio
 file: /courses/22-01-introduction-to-nuclear-engineering-and-ionizing-radiation-fall-2016/2e1ebfc45290eb3c457cdde0c35d2efd_MIT22_01F16_Quiz1.pdf
 file_size: 116616
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Exams
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

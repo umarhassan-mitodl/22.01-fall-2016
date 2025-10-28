@@ -2,8 +2,6 @@
 content_type: page
 description: This page provides quiz questions and solutions, along with study sheets
   for the first two quizzes.
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Exams
 ocw_type: CourseSection

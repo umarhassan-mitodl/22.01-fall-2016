@@ -4,8 +4,6 @@ description: ''
 end_time: ''
 file: null
 file_size: '118173792'
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Videos
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
@@ -34,5 +32,5 @@ video_metadata:
 
 **Instructor:** Michael Short
 
-**Note:** To report potential content errors, [please use this form](https://forms.gle/8B2zcUvfCtgJdTdE7).
+**Note:** To report potential content errors, {{% resource_link "48b440cf-e6c7-451a-886a-233e89c0c702" "please use this form" %}}.
 

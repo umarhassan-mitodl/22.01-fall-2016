@@ -2,8 +2,6 @@
 content_type: page
 description: "In this section, Professor Short explains his sense of the teacher\u2019\
   s role in helping students to attain fluency in a subject. "
-hide_download: true
-hide_download_original: null
 layout: instructor_insights
 learning_resource_types: []
 ocw_type: CourseSection

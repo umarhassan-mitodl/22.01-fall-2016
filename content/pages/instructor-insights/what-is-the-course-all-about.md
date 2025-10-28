@@ -3,8 +3,6 @@ content_type: page
 description: In this section, Professor Short explains the overall topic of 22.01
   Introduction to Nuclear Engineering and Ionizing Radiation and what he hopes students
   will take away from the class.
-hide_download: true
-hide_download_original: null
 layout: instructor_insights
 learning_resource_types: []
 ocw_type: CourseSection
@@ -27,7 +25,7 @@ _In this section, Professor Short explains the overall topic of_ 22.01 Introduct
 
 {{< resource 898755ce-3104-e859-562e-fa39d553cff9 >}}
 
-A packet of crushed red pepper that has been irradiated to prevent spoilage. (Image courtesy of [Lee Bennett](https://www.flickr.com/photos/leebennett/5486448368/) on Flickr. License: CC BY-NC-SA.)
+A packet of crushed red pepper that has been irradiated to prevent spoilage. (Image courtesy of {{% resource_link "d5f0c3ce-1a0a-498e-8897-ebe28265cee5" "Lee Bennett" %}} on Flickr. License: CC BY-NC-SA.)
 
 **PROFESSOR SHORT:** We actually spend two weeks at the end of the class looking at studies that are false or have exaggerated claims, and teaching students what to look for. For the first 11 weeks of the class we teach the students the fundamentals of nuclear science, and then we turn to published articles, and blogs, and other things in the field. And we debunk myths like the myth that cellphones cause cancer due to ionizing radiation. Cellphones don't emit ionizing radiation.
 

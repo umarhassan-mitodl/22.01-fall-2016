@@ -2,8 +2,6 @@
 content_type: page
 description: In this section, Professor Short gives examples of ways he incorporates
   experiential learning into his teaching approach.
-hide_download: true
-hide_download_original: null
 layout: instructor_insights
 learning_resource_types: []
 ocw_type: CourseSection
@@ -22,7 +20,7 @@ _In this section, Professor Short gives examples of ways he incorporates experie
 
 {{< resource 942932a3-5164-e735-835d-d1c4351e329d >}}
 
-Granite structures, such as the façade of Boston’s South Station, can give off significant levels of radon gas. (Image courtesy of [Bogdan Tapu](https://www.flickr.com/photos/bogdantapu/42137364544/) on Flickr. License CC BY-NC.)
+Granite structures, such as the façade of Boston’s South Station, can give off significant levels of radon gas. (Image courtesy of {{% resource_link "5f5eb96e-cab3-4bed-be10-2d803f4e189c" "Bogdan Tapu" %}} on Flickr. License CC BY-NC.)
 
 Luckily, there are electronic systems to prevent anything from going wrong. If anything goes in too fast or slow the computer takes over. But even though we tell the students that, they know they've got six megawatts of power in a little dial in their hands. And then we ask them to analyze their data: Why did the reactor behave this way? Why is it that when you stopped lowering the rods, the power kept going down?
 
